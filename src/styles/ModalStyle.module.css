@@ -1,0 +1,68 @@
+.username_block {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.user_info {
+    display: flex;
+
+    display: grid;
+    grid-template-columns: 220px 220px;
+    justify-content: space-around;
+
+    margin-top: 40px;
+}
+
+.user_dopinfo {
+    /* display: flex; */
+
+}
+
+.username {
+    display: flex;
+    font-family: Proxima Nova;
+    font-size: 24px;
+}
+
+.icon {
+    display: flex;
+    position: fixed;
+    margin-top: 50px;
+    margin-left: -640px;
+    text-align: center;
+}
+
+.title {
+    /* display: flex; */
+    color: #262C40;
+    font-size: 18px;
+    font-family: Proxima Nova;
+    
+}
+
+.body {
+    /* display: flex; */
+    color: #8189A3;
+    font-size: 16px;
+    font-family: Proxima Nova;
+}
+
+.p {
+    margin-top: 24px;
+}
+
+.info_title {
+    color: #262C40;
+    font-family: Proxima Nova;
+    font-size: 18px;
+    margin-top: 24px;
+}
+
+.info_body {
+    color: #8189A3;
+    font-size: 16px;
+    font-family: Proxima Nova;
+    margin-top: 15px;
+}

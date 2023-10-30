@@ -1,0 +1,10 @@
+.search {  
+    width: 1120px;
+    height: 48px;
+}
+img {
+    position: absolute;
+    margin-top: -35px;
+    margin-left: 1070px;
+    cursor: pointer;
+  }
